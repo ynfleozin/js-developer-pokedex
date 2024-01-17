@@ -4,14 +4,26 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: rgb(199, 11, 11);
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: rgb(131, 5, 5);
+}
+
+.pokedexLogo{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pokedexLogo img {
+    width: 100%; 
+    max-width: 35vw; 
+    height: auto; 
 }
 
 @media screen and (min-width: 992px) {
@@ -20,5 +32,10 @@ body {
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
+    }
+
+    .pokedexLogo img {
+        max-width: 20vw; 
+
     }
 }
