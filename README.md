@@ -1,19 +1,48 @@
 # Trilha JS Developer - Pokedex
 
-# Leonardo Alvarenga Munaldi
-Futuro estudante de Análise e Desenvolvimento de Sistemas, 18 anos, admirador da tecnologia desde criança.
+Bem-vindo à `js-developer-pokedex`! Este é um projeto que desenvolvi para criar uma Pokédex utilizando JavaScript, HTML e CSS, integrando com a PokeAPI para obter os dados dos Pokémon.
 
-### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/leo_alvarenga777)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leonardo-alvarenga-74a293292/)
+## Sobre o Projeto
 
+A `js-developer-pokedex` é uma aplicação web que permite aos usuários explorar informações sobre diversos Pokémon. Utilizando a PokeAPI, a aplicação exibe detalhes como nome, imagem, tipos, habilidades e outras estatísticas dos Pokémon.
 
-### Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+## Funcionalidades
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ynfleozin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=993399&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ynfleozin&layout=compact&bg_color=000&border_color=30A3DC&title_color=993399&text_color=FFF)
+- Exibição de detalhes do Pokémon, incluindo:
+  - Imagem
+  - Tipos
+  - Habilidades
+  - Estatísticas básicas (HP, Ataque, Defesa, etc.)
+- Interface responsiva e amigável
+
+## Tecnologias Utilizadas
+
+- **JavaScript**: Lógica de programação e integração com a API
+- **HTML**: Estrutura da aplicação
+- **CSS**: Estilização da aplicação
+- **PokeAPI**: Fonte de dados dos Pokémon
+
+## Como Executar o Projeto
+
+Para executar o projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/js-developer-pokedex.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd js-developer-pokedex
+    ```
+
+3. Abra o arquivo `index.html` em seu navegador preferido.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver alguma sugestão, bug report ou desejar adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+---
+
+Espero que você aproveite explorar a `js-developer-pokedex` tanto quanto eu gostei de desenvolvê-la!
 
